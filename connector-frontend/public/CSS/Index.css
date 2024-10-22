@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap");
+
+* {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 900;
+}
+
+:root {
+  --dark_gray: rgb(50, 50, 50);
+  --light_blue: rgb(55, 125, 255);
+}
