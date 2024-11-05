@@ -32,9 +32,7 @@ function Home() {
       <div className="home_parent">
         <div className="home_left"></div>
         <div className="home_right">
-          <button className="join_button" id="join_button">
-            Join
-          </button>
+          <button className="join_button" id="join_button">Join</button>
         </div>
 
         <div id="home_auth_area" style={{ position: "absolute", top: "-50%" }}>

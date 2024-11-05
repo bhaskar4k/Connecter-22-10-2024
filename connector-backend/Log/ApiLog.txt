@@ -1,0 +1,3 @@
+API call -> http://localhost:4000/api/signup/ | Method -> POST | Call on -> 5/11/2024 - 22:21:16
+API call -> http://localhost:4000/api/signup/ | Method -> POST | Call on -> 5/11/2024 - 22:21:27
+API call -> http://localhost:4000/api/signup/ | Method -> POST | Call on -> 5/11/2024 - 22:24:18
